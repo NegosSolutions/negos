@@ -396,6 +396,22 @@ header .navbar {
 	background-image: url(../images/slide_03.jpg);
 }
 
+.Modern-Slider .item-4 .img-fill {
+	background-image: url(../images/slide_04.jpg);
+}
+
+.Modern-Slider .item-5 .img-fill {
+	background-image: url(../images/slide_05.jpg);
+}
+
+.Modern-Slider .item-6 .img-fill {
+	background-image: url(../images/slide_06.jpg);
+}
+
+.Modern-Slider .item-7 .img-fill {
+	background-image: url(../images/slide_07.jpg);
+}
+
 .Modern-Slider .NextArrow{
   position:absolute;
   top:50%;
